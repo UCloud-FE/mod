@@ -49,8 +49,8 @@ ReactDOM.render(<div>Hello React</div>, document.querySelector('#app'));
     entry.js
 
     ```js
-    import mod from '@rapiop/mod';
-    import { moduleMap as modules } from '@rapiop/mod/lib/module';
+    import mod from '@ucloud-fe/mod';
+    import { moduleMap as modules } from '@ucloud-fe/mod/lib/module';
 
     import dep from './dep';
 

@@ -1,11 +1,11 @@
 {
-  "name": "@rapiop/mod",
+  "name": "@ucloud-fe/mod",
   "version": "1.2.1",
   "description": "A module loader support umd and own md",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rapiop/mod.git"
+    "url": "git+https://github.com/ucloud-fe/mod.git"
   },
   "files": [
     "lib",
@@ -13,16 +13,16 @@
     "dist"
   ],
   "keywords": [
-    "rapiop",
+    "ucloud-fe",
     "module",
     "loader",
     "css",
     "style"
   ],
   "bugs": {
-    "url": "https://github.com/rapiop/mod/issues"
+    "url": "https://github.com/ucloud-fe/mod/issues"
   },
-  "homepage": "https://github.com/rapiop/mod#readme",
+  "homepage": "https://github.com/ucloud-fe/mod#readme",
   "author": "ZxBing0066",
   "license": "MIT",
   "dependencies": {

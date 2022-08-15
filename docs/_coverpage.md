@@ -6,8 +6,8 @@
 -   Non-invasive to your project
 -   Use like es module
 
-[GitHub](https://github.com/rapiop/mod)
-[NPM](https://www.npmjs.com/package/@rapiop/mod)
+[GitHub](https://github.com/ucloud-fe/mod)
+[NPM](https://www.npmjs.com/package/@ucloud-fe/mod)
 [Get Started](quickStart.md)
 
 <!-- background color -->
