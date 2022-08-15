@@ -47,17 +47,6 @@ const switchTheme = async dark => {
 };
 ```
 
-### 演示 - bootstrap 主题切换
-
-> 主题切换时会加载样式，有短暂等待时间，可使用 loading 优化体验
-
-<iframe src="https://codesandbox.io/embed/mod-theme-switch-g83q6?fontsize=14&hidenavigation=1&theme=dark"
-    style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-    title="mod theme switch"
-    allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-></iframe>
-
 ## style-lazy
 
 ### 代码
@@ -97,12 +86,3 @@ const switchTheme = async dark => {
     }
 };
 ```
-
-### 演示 - bootstrap 主题切换
-
-<iframe src="https://codesandbox.io/embed/mod-theme-switch-style-lazy-7vt2c?fontsize=14&hidenavigation=1&theme=dark"
-    style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-    title="mod theme switch style-lazy"
-    allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-></iframe>

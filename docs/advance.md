@@ -94,15 +94,6 @@ ReactDOM.render(<div>Hello React</div>, document.querySelector('#app'));
     };
     ```
 
-demo
-
-<iframe src="https://codesandbox.io/embed/practical-bose-js3lg?fontsize=14&hidenavigation=1&theme=dark"
-    style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-    title="practical-bose-js3lg"
-    allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-    sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-></iframe>
-
 ### 使用 webpack 将多个包打包进一个文件
 
 > 方便自行管理文件拆包、分包，无需关注模块管理。
